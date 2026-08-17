@@ -3,7 +3,7 @@
 public class Type_of_Variable1 {
     
 
-
+int staticVariable=10;
     static void myMethod() {
         System.out.println("Static Variable: " + staticVariable);
     }
