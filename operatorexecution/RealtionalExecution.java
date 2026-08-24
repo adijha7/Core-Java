@@ -17,9 +17,7 @@ public class RealtionalExecution {
 		boolean testcase2=size==t2;
 		System.out.println(testcase2);
 		
-		/*Test Case 3  */
-		boolean testcase3=size==t3;
-		System.out.println(testcase3);
+		
 	}
 
     
