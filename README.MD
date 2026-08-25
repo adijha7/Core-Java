@@ -9,6 +9,5 @@ DAY3: OPERATOR PROGRAM EXECUTION
 DAY4: ARTHEMATIC OPERATOR PROGRAM EXECUTION
 <BR>
 DAY5: Realtional Execution AND Logical_AND_Execution 
-
 <BR>
-DAY5: Logical_OR_Execution  AND Logical_NOT_Execution 
+DAY6: Logical_OR_Execution  AND Logical_NOT_Execution it 
