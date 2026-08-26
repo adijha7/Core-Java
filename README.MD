@@ -13,3 +13,5 @@ DAY5: Realtional Execution AND Logical_AND_Execution
 DAY6: Logical_OR_Execution  AND Logical_NOT_Execution 
 <BR>
 DAY7: Increment_Operator_Execution AND Decrement_Operator_Execution
+<BR>
+Day8: Compound_Assignment_Execution
