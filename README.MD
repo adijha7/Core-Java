@@ -15,3 +15,7 @@ DAY6: Logical_OR_Execution  AND Logical_NOT_Execution
 DAY7: Increment_Operator_Execution AND Decrement_Operator_Execution
 <BR>
 Day8: Compound_Assignment_Execution
+<BR>
+DAY9: ConditionalOperatorExecution
+<BR>
+DAY10: BasedonDatatype
