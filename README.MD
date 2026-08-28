@@ -19,3 +19,5 @@ Day8: Compound_Assignment_Execution
 DAY9: ConditionalOperatorExecution
 <BR>
 DAY10: BasedonDatatype
+<BR>
+DAY11: TypeCasting and There Types
