@@ -18,6 +18,8 @@ Day8: Compound_Assignment_Execution
 <BR>
 DAY9: ConditionalOperatorExecution
 <BR>
-DAY10: BasedonDatatype
+DAY10: BasedonDatatype and Based on Scope
 <BR>
 DAY11: TypeCasting and There Types
+<BR>
+DAY12: If Statement and If-else Statement
