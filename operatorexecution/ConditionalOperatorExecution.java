@@ -1,4 +1,4 @@
-package operatorsexceution;
+package operatorexecution;
 
 public class ConditionalOperatorExecution {
 	public static void main(String[] args) {
