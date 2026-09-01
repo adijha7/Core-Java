@@ -25,3 +25,7 @@ DAY11: TypeCasting and There Types
 DAY12: If Statement and If-else Statement 
 <BR>
 DAY13: Nested If  and Switch case
+<BR>
+DAY14: For Loop  and Loop
+<BR>
+DAY15: Do While Loop
