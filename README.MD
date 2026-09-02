@@ -29,3 +29,5 @@ DAY13: Nested If  and Switch case
 DAY14: For Loop  and Loop
 <BR>
 DAY15: Do While Loop
+<BR>
+DAY16: Method and ReturnType
