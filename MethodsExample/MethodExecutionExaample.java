@@ -10,7 +10,6 @@ public class MethodExecutionExaample {
 public static void main(String[] args) {
 	System.out.println("----Main Start------");
 	display();
-	test();
-	System.out.println("---- Main End ------ ");
+	
 }
 }
