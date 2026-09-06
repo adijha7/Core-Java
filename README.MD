@@ -33,3 +33,5 @@ DAY15: Do While Loop
 DAY16: Method and ReturnType
 <BR>
 DAY17:  and ParameterizedMethod
+<BR>
+DAY18:  revision of old learn concept
