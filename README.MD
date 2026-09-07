@@ -35,3 +35,5 @@ DAY16: Method and ReturnType
 DAY17:  and ParameterizedMethod
 <BR>
 DAY18:  revision of old learn concept
+<BR>
+DAY19:  Method Loading
