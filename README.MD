@@ -39,3 +39,5 @@ DAY18:  revision of old learn concept
 DAY19:  Method OverLoading
 <BR>
 DAY20:  Member of java
+<BR>
+DAY21: Input from user 
