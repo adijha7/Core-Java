@@ -41,3 +41,5 @@ DAY19:  Method OverLoading
 DAY20:  Member of java
 <BR>
 DAY21: Input from user 
+<BR>
+DAY22: Array1D
