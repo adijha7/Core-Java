@@ -43,3 +43,5 @@ DAY20:  Member of java
 DAY21: Input from user 
 <BR>
 DAY22: Array1D
+<BR>
+DAY22: Array with new keyword and without new keyword
