@@ -44,4 +44,6 @@ DAY21: Input from user
 <BR>
 DAY22: Array1D
 <BR>
-DAY22: Array with new keyword and without new keyword
+DAY22: Array 1D with new keyword and without new keyword
+<BR>
+DAY23: Array 2D with new keyword 
