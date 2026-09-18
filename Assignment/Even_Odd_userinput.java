@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Even_Odd_userinput {
 	
 	
+	
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in); 
 		System.out.println("Enter the First Number :- ");

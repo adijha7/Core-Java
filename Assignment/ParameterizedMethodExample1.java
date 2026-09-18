@@ -1,7 +1,5 @@
 package Assignment;
 
-
-
 public class ParameterizedMethodExample1 
 {
 	static void multi(int a,int b,int c) {
