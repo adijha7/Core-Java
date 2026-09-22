@@ -1,5 +1,5 @@
 # CORE JAVA
-
+# Part1
 DAY1 : HELLO WORLD PROGRAM
 <BR>
 DAY2: VARIABLE PROGRAM EXECUTION AND VARIABLE PROGRAM Assignment
@@ -49,3 +49,11 @@ DAY22: Array 1D with new keyword and without new keyword
 DAY23: Array 2D with new keyword 
 <BR>
 DAY23: Array 2D without new keyword 
+
+
+
+# Part 2 start 
+<BR>
+DAY01: Object Creation 
+<BR>
+DAY02: To create a non Static variable
