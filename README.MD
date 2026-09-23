@@ -57,3 +57,5 @@ DAY23: Array 2D without new keyword
 DAY01: Object Creation 
 <BR>
 DAY02: To create a non Static variable
+<BR>
+DAY03: Constructor Part is Started
