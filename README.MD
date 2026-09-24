@@ -59,3 +59,5 @@ DAY01: Object Creation
 DAY02: To create a non Static variable
 <BR>
 DAY03: Constructor Part is Started
+<BR>
+DAY03:  No Arugment Constructor and Parameterized Constructor  
