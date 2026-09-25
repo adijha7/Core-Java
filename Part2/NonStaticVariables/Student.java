@@ -7,6 +7,7 @@ public class Student {
 	String gender;
 	
 	public static void main(String[] args) {
+	System.out.println("---------- s1------------------");
 		Student s1=new Student();
 		System.out.println(s1.id);
 		System.out.println(s1.name);
@@ -20,10 +21,10 @@ public class Student {
 		s1.age=22;
 		s1.gender="Male";
 		
-		System.out.println(s1.id);
-		System.out.println(s1.name);
-		System.out.println(s1.age);
-		System.out.println(s1.gender);
+		System.out.println("Student id "+s1.id);
+		System.out.println("Student Name "+s1.name);
+		System.out.println("Student age "+s1.age);
+		System.out.println("Student Gender"+s1.gender);
 		
 System.out.println("---------- s2------------------");
       Student s2=new Student();
@@ -38,17 +39,17 @@ System.out.println("---------- s2------------------");
 		s2.age=24;
 		s2.gender="Male";
 		
-		System.out.println(s2.id);
-		System.out.println(s2.name);
-		System.out.println(s2.age);
-		System.out.println(s2.gender);
+		System.out.println("Student id "+s2.id);
+		System.out.println("Student Name "+s2.name);
+		System.out.println("Student age "+s2.age);
+		System.out.println("Student Gender"+s2.gender);
 		
 		System.out.println("---------- s3------------------");
 	      Student s3=new Student();
-	      System.out.println(s3.id);
-			System.out.println(s3.name);
-			System.out.println(s3.age);
-			System.out.println(s3.gender);
+	      System.out.println("Student id "+s3.id);
+			System.out.println("Student Name "+s3.name);
+			System.out.println("Student age "+s3.age);
+			System.out.println("Student Gender"+s3.gender);
 			
 	  System.out.println("----------------------------");
 			s3.id=103;
