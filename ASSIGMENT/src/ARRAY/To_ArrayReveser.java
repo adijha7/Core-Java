@@ -11,9 +11,8 @@ public class To_ArrayReveser {
 		
 		for(int i=arr.length-1;i>=0;i--) {
 			if(i>start) {
-				int temp=start;
+			
 				start=i;
-				i=temp;
 				
 			}
 			System.out.println(arr[i]);

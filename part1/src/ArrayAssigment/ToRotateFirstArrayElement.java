@@ -13,6 +13,7 @@ public class ToRotateFirstArrayElement {
 			
 		   arr[i]=arr[i]+i;
 		}
+		System.out.println(temp);
 		//arr.length-1 =temp;
 		}
 	}
